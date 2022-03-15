@@ -12,8 +12,20 @@ journey
       Backflip: 1: Me, Cat
       Lay down: 5: Me
 ```
-test
 
-<big>
-  <a herf=""> [ blog ]    </a> x
-  <a herf=""> [ twitter ] </a> x
+<ruby>
+詹 <rt>Chan</rt>
+</ruby>
+&nbsp;
+<!-- &nbsp; -->
+<ruby>
+鈞堯 <rt> Chun-Yao </rt>
+</ruby>
+<!-- <ruby>
+堯 <rt>Yao</rt>
+</ruby> -->
+
+<samp>
+  <a herf=""> [ blog ]      </a> x
+  <a herf=""> [ twitter ]   </a> x
+  <a herf=""> [ linkedin ]  </a> 
